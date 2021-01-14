@@ -48,4 +48,4 @@ paramètres et visibilité).
 2. Donner l’implémentation Java des différentes classes et interfaces.
 
 ## Solution
-1. [Diagram Class](https://lucid.app/lucidchart/invitations/accept/eab05f61-92b7-4710-8458-dcc2a1bd1ce9)
+1. [Diagram Class (Please use Zoom option to be able to see the overall structure)](https://lucid.app/lucidchart/invitations/accept/eab05f61-92b7-4710-8458-dcc2a1bd1ce9)
