@@ -1,6 +1,6 @@
 # Transport Management System (Systeme de Gestion d'une Societe du Transport)
 Series of exercices, for mastering **Java OOP Concepts** (*School exercice*)
-## Excercice description (Frensh version)
+## Excercice description (French version)
 > On souhaite créer une application Java qui permet gérer une société de transport de cargaisons (‫)الشحنات‬
 transportant des marchandises. La société de transport gère un ensemble de cargaisons. Chaque cargaison
 contient plusieurs marchandises. Chaque marchandise est définie par son numéro (long), son poids (double) et
@@ -49,3 +49,4 @@ paramètres et visibilité).
 
 ## Solution
 1. [Diagram Class (Please use Zoom option to see the overall structure)](https://lucid.app/lucidchart/invitations/accept/eab05f61-92b7-4710-8458-dcc2a1bd1ce9)
+2. *Solution please check the repository*
