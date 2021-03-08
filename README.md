@@ -35,8 +35,8 @@ CargaisonAerienne,
 DepassementMasseException,
 IAdminTransport,
 IClientTransport
-et
-SocieteTransport) en prenant en considération les critères suivants :
+et SocieteTransport)
+En prenant en considération les critères suivants :
 a. La classe SocieteTransport devrait implémenter les deux interfaces IClientTransport et
 IAdminTranport déclarant, respectivement les opérations relatives aux rôles Client et Admin.
 b. Les classes CargaisonRoutiere et CargaisonAerienne doivent redéfinir la méthode toString
