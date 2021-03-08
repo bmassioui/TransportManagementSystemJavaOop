@@ -48,5 +48,5 @@ paramètres et visibilité).
 2. Donner l’implémentation Java des différentes classes et interfaces.
 
 ## Solution
-1. [Diagram Class (Please use Zoom option to see the overall structure)](https://lucid.app/lucidchart/invitations/accept/eab05f61-92b7-4710-8458-dcc2a1bd1ce9)
+1. [Diagram Class (Please use Zoom option to see the overall structure)](https://github.com/bouchaib-massioui/TransportManagementSystemJavaOop/blob/6302b2490e61cfccf1903235e1bf66f50f9c3552/TransportManagementSystemJavaOop/classdiagram/transportmanagementsystem.png)
 2. *Solution please check the repository*
