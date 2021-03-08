@@ -48,5 +48,5 @@ paramètres et visibilité).
 2. Donner l’implémentation Java des différentes classes et interfaces.
 
 ## Solution
-1. [Diagram Class (Please use Zoom option to see the overall structure)](https://github.com/bouchaib-massioui/TransportManagementSystemJavaOop/blob/6302b2490e61cfccf1903235e1bf66f50f9c3552/TransportManagementSystemJavaOop/classdiagram/transportmanagementsystem.png)
+1. [Diagram Class](https://github.com/bouchaib-massioui/TransportManagementSystemJavaOop/blob/6302b2490e61cfccf1903235e1bf66f50f9c3552/TransportManagementSystemJavaOop/classdiagram/transportmanagementsystem.png)
 2. *Solution please check the repository*
